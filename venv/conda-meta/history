@@ -1,4 +1,4 @@
-==> 2023-04-13 14:21:41 <==
+==> 2023-04-15 17:15:07 <==
 # cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py create -p venv python==3.8
 # conda version: 4.12.0
 +defaults/win-64::ca-certificates-2023.01.10-haa95532_0
@@ -7,13 +7,13 @@
 +defaults/win-64::pip-23.0.1-py38haa95532_0
 +defaults/win-64::python-3.8.0-hff0d562_2
 +defaults/win-64::setuptools-65.6.3-py38haa95532_0
-+defaults/win-64::sqlite-3.41.1-h2bbff1b_0
++defaults/win-64::sqlite-3.41.2-h2bbff1b_0
 +defaults/win-64::vc-14.2-h21ff451_1
 +defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
 +defaults/win-64::wheel-0.38.4-py38haa95532_0
 +defaults/win-64::wincertstore-0.2-py38haa95532_2
 # update specs: ['python==3.8']
-==> 2023-04-13 14:32:49 <==
+==> 2023-04-15 17:46:48 <==
 # cmd: c:\ProgramData\Anaconda3\Scripts\conda-script.py install -c conda-forge --prefix c:/houseprice/venv --update-deps --force-reinstall ipykernel -y
 # conda version: 4.12.0
 -defaults/win-64::ca-certificates-2023.01.10-haa95532_0
@@ -22,7 +22,7 @@
 -defaults/win-64::pip-23.0.1-py38haa95532_0
 -defaults/win-64::python-3.8.0-hff0d562_2
 -defaults/win-64::setuptools-65.6.3-py38haa95532_0
--defaults/win-64::sqlite-3.41.1-h2bbff1b_0
+-defaults/win-64::sqlite-3.41.2-h2bbff1b_0
 -defaults/win-64::vc-14.2-h21ff451_1
 -defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
 -defaults/win-64::wheel-0.38.4-py38haa95532_0
@@ -41,13 +41,13 @@
 +conda-forge/noarch::ipykernel-6.22.0-pyh025b116_0
 +conda-forge/noarch::ipython-8.12.0-pyh08f2357_0
 +conda-forge/noarch::jedi-0.18.2-pyhd8ed1ab_0
-+conda-forge/noarch::jupyter_client-8.1.0-pyhd8ed1ab_0
++conda-forge/noarch::jupyter_client-8.2.0-pyhd8ed1ab_0
 +conda-forge/noarch::matplotlib-inline-0.1.6-pyhd8ed1ab_0
 +conda-forge/noarch::nest-asyncio-1.5.6-pyhd8ed1ab_0
 +conda-forge/noarch::packaging-23.1-pyhd8ed1ab_0
 +conda-forge/noarch::parso-0.8.3-pyhd8ed1ab_0
 +conda-forge/noarch::pickleshare-0.7.5-py_1003
-+conda-forge/noarch::pip-23.0.1-pyhd8ed1ab_0
++conda-forge/noarch::pip-23.1-pyhd8ed1ab_0
 +conda-forge/noarch::platformdirs-3.2.0-pyhd8ed1ab_0
 +conda-forge/noarch::prompt-toolkit-3.0.38-pyha770c72_0
 +conda-forge/noarch::prompt_toolkit-3.0.38-hd8ed1ab_0
@@ -85,4 +85,4 @@
 +conda-forge/win-64::vs2015_runtime-14.34.31931-h4c5c07a_10
 +conda-forge/win-64::xz-5.2.6-h8d14728_0
 +conda-forge/win-64::zeromq-4.3.4-h0e60522_1
-# update specs: ['openssl', 'packaging', 'colorama', 'pure_eval', 'traitlets', 'psutil', 'python=3.8', 'platformdirs', 'prompt-toolkit', 'decorator', 'backcall', 'pygments', 'stack_data', 'backports.functools_lru_cache', 'jupyter_client', 'executing', 'python-dateutil', 'wcwidth', 'parso', 'libsqlite', 'pickleshare', 'ca-certificates', 'pyzmq', 'zipp', 'python_abi', 'ipython', 'debugpy', 'tornado', 'wheel', 'jedi', 'sqlite', 'typing-extensions', 'ucrt', 'nest-asyncio', 'pip', 'pywin32', 'typing_extensions', 'zeromq', 'importlib_metadata', 'jupyter_core', 'matplotlib-inline', 'asttokens', 'vc', 'comm', 'six', 'importlib-metadata', 'libsodium', 'vs2015_runtime', 'prompt_toolkit', 'backports', 'setuptools', 'ipykernel']
+# update specs: ['pure_eval', 'prompt-toolkit', 'pyzmq', 'importlib_metadata', 'traitlets', 'python_abi', 'ca-certificates', 'libsqlite', 'importlib-metadata', 'zeromq', 'vc', 'wheel', 'stack_data', 'wcwidth', 'ipython', 'packaging', 'decorator', 'six', 'python-dateutil', 'nest-asyncio', 'parso', 'matplotlib-inline', 'jupyter_client', 'jedi', 'colorama', 'comm', 'zipp', 'sqlite', 'pywin32', 'typing_extensions', 'pygments', 'python=3.8', 'openssl', 'executing', 'setuptools', 'backports.functools_lru_cache', 'debugpy', 'pickleshare', 'ucrt', 'asttokens', 'tornado', 'psutil', 'pip', 'backcall', 'prompt_toolkit', 'backports', 'vs2015_runtime', 'typing-extensions', 'libsodium', 'jupyter_core', 'platformdirs', 'ipykernel']
